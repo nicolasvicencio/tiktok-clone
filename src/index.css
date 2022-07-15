@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('assets/ProximaNova-Semibold.woff2')format('woff2');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('assets/ProximaNova-Semibold.woff2')format('woff2');
+  font-weight: 400;
+}
+
+body {
+  font-family: 'Proxima Nova', Inter, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;  
+  
+}
